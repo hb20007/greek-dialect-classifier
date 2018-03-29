@@ -4,7 +4,9 @@
 
 > Putting an end to “It's all Greek to me”
 
-A classifier that identifies Greek text as Cypriot Greek (CG) or Standard Modern Greek (SMG)
+This is a classifier that identifies Greek text as Cypriot Greek (CG) or Standard Modern Greek (SMG).
+
+For more information, you can read my thesis: .
 
 ## 1. Notebooks
 |Index of Jupyter Notebooks|
