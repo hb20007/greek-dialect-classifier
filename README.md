@@ -33,7 +33,7 @@ Feel free to use the corpus or a subsection of it in any kind of project as long
 In order to run the code, either clone the repository and run Jupyter Notebooks locally, or click on the Binder badge at the top of this readme to instantly run the notebooks on a remote server. If you choose the latter option, you still need to use `nltk.download()` in order to download the required NLTK modules.
 
 ## 4. Trying the classifier
-If what you are interesting in is running the classifier with your own text as input, go to the last section of the notebook [3. Building the Classifier](https://github.com/hb20007/greek-dialect-classifier/blob/master/3-Building-the-Classifier.ipynb).
+If you are only interested in running the classifier with your own text as input, go to the last section of [3. Building the Classifier](https://github.com/hb20007/greek-dialect-classifier/blob/master/3-Building-the-Classifier.ipynb).
 
 ## 5. Meta
 
