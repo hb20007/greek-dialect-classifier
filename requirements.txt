@@ -1,2 +1,4 @@
 TwitterSearch
 nltk
+numpy
+sklearn
