@@ -2,7 +2,7 @@
 
 # Greek Dialect Classifier
 
-> Putting an end to “It's all Greek to me”
+> Putting an end to “It's all Greek to me.”
 
 This is a classifier that identifies Greek text as Cypriot Greek (CG) or Standard Modern Greek (SMG).
 
@@ -27,7 +27,7 @@ The corpus can be found in the `Data` directory. It was collected by me personal
 |[SMG Twitter](https://github.com/hb20007/greek-dialect-classifier/blob/master/Data/smg_twitter.txt)<br>*SMG text collected from tweets*|
 |[SMG Other](https://github.com/hb20007/greek-dialect-classifier/blob/master/Data/smg_other.txt)<br>*SMG text collected from forum posts, blog and news article comments*|
 
-Feel free to use the corpus or a subsection of it in any kind of project as long as you provide a link to this repository.
+Feel free to use the corpus or a subset of it in any kind of project as long as you provide a link to this repository.
 
 ## 3. Instructions
 In order to run the code, either clone the repository and run Jupyter Notebooks locally, or click on the Binder badge at the top of this readme to instantly run the notebooks on a remote server. If you choose the latter option, you still need to use `nltk.download()` in order to download the required NLTK modules.
@@ -39,4 +39,4 @@ If you are only interested in running the classifier with your own text as input
 
 H. Z. Sababa &mdash; hb20007 &mdash; hzsababa@outlook.com
 
-Distributed under the MIT license. See `LICENSE.md` for more information.
+Distributed under the MIT license. See [`LICENSE`](https://github.com/hb20007/greek-dialect-classifier/blob/master/LICENSE) for more information.
