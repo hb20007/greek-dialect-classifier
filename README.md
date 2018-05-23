@@ -2,7 +2,7 @@
 
 # Greek Dialect Classifier
 
-> Putting an end to “It's all Greek to me.”
+> Putting an end to &ldquo;It's all Greek to me.&rdquo;
 
 This is a classifier that identifies Greek text as Cypriot Greek (CG) or Standard Modern Greek (SMG).
 
