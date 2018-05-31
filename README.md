@@ -6,7 +6,7 @@
 
 This is a classifier that identifies Greek text as Cypriot Greek (CG) or Standard Modern Greek (SMG).
 
-For more information, you can read my thesis: .
+For more information, you can read my thesis: [A Classifier to Distinguish Between Cypriot Greek and Standard Modern Greek](https://www.academia.edu/36753159/A_Classifier_to_Distinguish_Between_Cypriot_Greek_and_Standard_Modern_Greek).
 
 ## 1. Notebooks
 |Index of Jupyter Notebooks|
