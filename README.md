@@ -11,21 +11,21 @@ For more information, you can read my thesis: [A Classifier to Distinguish Betwe
 ## 1. Notebooks
 |Index of Jupyter Notebooks|
 |---|
-|[1. Obtaining CG and SMG tweets](https://github.com/hb20007/greek-dialect-classifier/blob/master/1-Obtaining-CG-SMG-Tweets.ipynb)<br>*Code used to collect tweets*|
-|[2. Data Analysis](https://github.com/hb20007/greek-dialect-classifier/blob/master/2-Data-Analysis.ipynb)<br>*Analyzing the corpus*|
-|[3. Building the Classifier](https://github.com/hb20007/greek-dialect-classifier/blob/master/3-Building-the-Classifier.ipynb)<br>*Building the CG-SMG classifier*|
+|[1. Obtaining CG and SMG tweets](1-Obtaining-CG-SMG-Tweets.ipynb)<br>*Code used to collect tweets*|
+|[2. Data Analysis](2-Data-Analysis.ipynb)<br>*Analyzing the corpus*|
+|[3. Building the Classifier](3-Building-the-Classifier.ipynb)<br>*Building the CG-SMG classifier*|
 
 ## 2. The corpus
 The corpus can be found in the `Data` directory. It was collected by me personally and labeled into CG and SMG by separating text into files.
 
 |Index of files in corpus|
 |---|
-|[CG Facebook](https://github.com/hb20007/greek-dialect-classifier/blob/master/Data/cg_fb.txt)<br>*CG text collected from Facebook posts and comments*|
-|[CG Twitter](https://github.com/hb20007/greek-dialect-classifier/blob/master/Data/cg_twitter.txt)<br>*CG text collected from tweets*|
-|[CG Other](https://github.com/hb20007/greek-dialect-classifier/blob/master/Data/cg_other.txt)<br>*CG text collected from forum posts, blog and news article comments*|
-|[SMG Facebook](https://github.com/hb20007/greek-dialect-classifier/blob/master/Data/smg_fb.txt)<br>*SMG text collected from Facebook posts and comments*|
-|[SMG Twitter](https://github.com/hb20007/greek-dialect-classifier/blob/master/Data/smg_twitter.txt)<br>*SMG text collected from tweets*|
-|[SMG Other](https://github.com/hb20007/greek-dialect-classifier/blob/master/Data/smg_other.txt)<br>*SMG text collected from forum posts, blog and news article comments*|
+|[CG Facebook](Data/cg_fb.txt)<br>*CG text collected from Facebook posts and comments*|
+|[CG Twitter](Data/cg_twitter.txt)<br>*CG text collected from tweets*|
+|[CG Other](Data/cg_other.txt)<br>*CG text collected from forum posts, blog and news article comments*|
+|[SMG Facebook](Data/smg_fb.txt)<br>*SMG text collected from Facebook posts and comments*|
+|[SMG Twitter](Data/smg_twitter.txt)<br>*SMG text collected from tweets*|
+|[SMG Other](Data/smg_other.txt)<br>*SMG text collected from forum posts, blog and news article comments*|
 
 Feel free to use the corpus or a subset of it in any kind of project as long as you provide a link to this repository.
 
