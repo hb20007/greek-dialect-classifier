@@ -9,6 +9,7 @@ This is a classifier that identifies Greek text as Cypriot Greek (CG) or Standar
 For more information, you can read my thesis: [A Classifier to Distinguish Between Cypriot Greek and Standard Modern Greek](https://www.academia.edu/36753159/A_Classifier_to_Distinguish_Between_Cypriot_Greek_and_Standard_Modern_Greek).
 
 ## 1. Notebooks
+
 |Index of Jupyter Notebooks|
 |---|
 |[1. Obtaining CG and SMG tweets](1-Obtaining-CG-SMG-Tweets.ipynb)<br>*Code used to collect tweets*|
@@ -16,6 +17,7 @@ For more information, you can read my thesis: [A Classifier to Distinguish Betwe
 |[3. Building the Classifier](3-Building-the-Classifier.ipynb)<br>*Building the CG-SMG classifier*|
 
 ## 2. The corpus
+
 The corpus can be found in the `Data` directory. It was collected by me personally and labeled into CG and SMG by separating text into files.
 
 |Index of files in corpus|
@@ -30,9 +32,11 @@ The corpus can be found in the `Data` directory. It was collected by me personal
 Feel free to use the corpus or a subset of it in any kind of project as long as you provide a link to this repository.
 
 ## 3. Instructions
+
 In order to run the code, either clone the repository and run Jupyter Notebooks locally, or click on the Binder badge at the top of this readme to instantly run the notebooks on a remote server. If you choose the latter option, you still need to use `nltk.download()` in order to download the required NLTK modules.
 
 ## 4. Trying the classifier
+
 If you are only interested in running the classifier with your own text as input, go to the last section of [3. Building the Classifier](3-Building-the-Classifier.ipynb).
 
 ## 5. Meta
