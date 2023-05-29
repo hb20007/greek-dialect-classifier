@@ -41,6 +41,6 @@ If you are only interested in running the classifier with your own text as input
 
 ## 5. Meta
 
-H. Z. Sababa &mdash; hb20007 &mdash; hzsababa@outlook.com
+H. Z. Sababa &mdash; hb20007 &mdash; <hzsababa@outlook.com>
 
 Distributed under the MIT license. See [`LICENSE`](LICENSE) for more information.
