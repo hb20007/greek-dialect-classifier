@@ -1,0 +1,7 @@
+{
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingImports": "none",
+    "reportMissingModuleSource": "none",
+    "reportUndefinedVariable": "none"
+  }
+}
