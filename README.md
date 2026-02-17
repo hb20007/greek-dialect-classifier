@@ -38,9 +38,3 @@ In order to run the code, either clone the repository and run Jupyter Notebooks 
 ## 4. Trying the classifier
 
 If you are only interested in running the classifier with your own text as input, go to the last section of [3. Building the Classifier](3-Building-the-Classifier.ipynb).
-
-## 5. Meta
-
-H. Z. Sababa &mdash; hb20007 &mdash; <hzsababa@outlook.com>
-
-Distributed under the MIT license. See [`LICENSE`](LICENSE) for more information.
