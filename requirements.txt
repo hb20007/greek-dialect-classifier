@@ -1,4 +1,3 @@
-TwitterSearch
 nltk
 numpy
 sklearn

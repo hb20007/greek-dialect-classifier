@@ -12,7 +12,7 @@ For more information, you can read my thesis: [A Classifier to Distinguish Betwe
 
 |Index of Jupyter Notebooks|
 |---|
-|[1. Obtaining CG and SMG tweets](1-Obtaining-CG-SMG-Tweets.ipynb)<br>*Code used to collect tweets*|
+|[1. Obtaining CG and SMG tweets](1-Obtaining-CG-SMG-Tweets.ipynb)<br>*Collecting the corpus*|
 |[2. Data Analysis](2-Data-Analysis.ipynb)<br>*Analyzing the corpus*|
 |[3. Building the Classifier](3-Building-the-Classifier.ipynb)<br>*Building the CG-SMG classifier*|
 
