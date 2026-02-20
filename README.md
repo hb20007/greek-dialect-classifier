@@ -33,7 +33,7 @@ Feel free to use the corpus or a subset of it in any kind of project as long as 
 
 ## 3. Instructions
 
-In order to run the code, either clone the repository and run Jupyter Notebooks locally, or click on the Binder badge at the top of this readme to instantly run the notebooks on a remote server. If you choose the latter option, you still need to use `nltk.download()` in order to download the required NLTK modules.
+In order to run the code, either clone the repository and run Jupyter Notebooks locally, or click on the Binder badge at the top of this readme to instantly run the notebooks on a remote server.
 
 ## 4. Trying the classifier
 
