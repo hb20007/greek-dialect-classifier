@@ -24,15 +24,15 @@ The corpus can be found in the `Data` directory. It was collected by me personal
 |---|
 |[CG Facebook](Data/cg_fb.txt)<br>*CG text collected from Facebook posts and comments*|
 |[CG Twitter](Data/cg_twitter.txt)<br>*CG text collected from tweets*|
-|[CG Other](Data/cg_other.txt)<br>*CG text collected from forum posts, blogs, and news article comments*|
+|[CG Other](Data/cg_other.txt)<br>*CG text collected from forum posts, as well as comments on blogs and news articles*|
 |[SMG Facebook](Data/smg_fb.txt)<br>*SMG text collected from Facebook posts and comments*|
 |[SMG Twitter](Data/smg_twitter.txt)<br>*SMG text collected from tweets*|
-|[SMG Other](Data/smg_other.txt)<br>*SMG text collected from forum posts, blogs, and news article comments*|
+|[SMG Other](Data/smg_other.txt)<br>*SMG text collected from forum posts, as well as comments on blogs and news articles*|
 
 ## 3. Instructions
 
-To run the code, either clone the repository, download the dependencies, and run the Jupyter notebooks locally, or click on the Binder badge at the top of this README to run the notebooks on a remote server.
+To run the code, you can clone the repository, install the dependencies, and run the Jupyter notebooks on your local machine, or click the Binder badge at the top of this README to run the notebooks on a remote server.
 
 ## 4. Trying the classifier
 
-If you are only interested in running the classifier with your own input, go to the last section of [3. Building the Classifier](3-Building-the-Classifier.ipynb).
+If you want to run the classifier with your own input, go to the last section of [3. Building the Classifier](3-Building-the-Classifier.ipynb).
