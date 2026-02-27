@@ -1,6 +1,6 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hb20007/greek-dialect-classifier/master)
-
 # Greek Dialect Classifier
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hb20007/greek-dialect-classifier/master)
 
 > Putting an end to &ldquo;It’s all Greek to me.&rdquo;
 
